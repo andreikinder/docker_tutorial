@@ -1,0 +1,17 @@
+{
+	"posts": [
+		{
+			"title": "11My Cool Post",
+			"author": "2Andrew Schmelyun"
+		},
+		{
+			"title": "33Another Cool Post",
+			"author": "4Andrew Schmelyun"
+		}
+	],
+	"profile": {
+		"first_name": "Andrew",
+		"last_name": "Schmelyun",
+		"email": "andrew@example.com"
+	}
+}
